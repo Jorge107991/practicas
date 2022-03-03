@@ -14,3 +14,12 @@ Puntos a evaluar
 5. Que la sintaxis sea correcta
 
 */
+let a = 13, b = 15, c = 20, d = 100;
+
+z = ( b + c ) * d + a;
+
+console.log( z );
+
+z += 4;
+
+console.log( z )

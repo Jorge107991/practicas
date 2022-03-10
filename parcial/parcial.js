@@ -14,3 +14,17 @@ Utilizar un operador racional para saber si ( a o b ) es menor a (b). mostrarlo 
 
 
 */
+
+let a = 10, b = 6, c = "10";
+
+let z = a != c;
+
+console.log( z );
+
+z = a !== c;
+
+console.log( z );
+
+z = a <= b;
+
+console.log( z );
